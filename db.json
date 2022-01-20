@@ -2,22 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "title": "Teclado"
+      "nombre": "Teclado",
+      "Unidades":"5",
+      "Precio":"14$"
+     
     },
     {
       "id": 2,
-      "title": "Monitor"
+      "nombre": "Monitor",
+      "Unidades":"5",
+      "Precio":"145$"
     },
     {
       "id": 3,
-      "title": "Mouse"
+      "nombre": "Mouse",
+      "Unidades":"5",
+      "Precio":"7$"
     },{
       "id": 4,
-      "title": "Motherboard"
+      "nombre": "Motherboard",
+      "Unidades":"5",
+      "Precio":"110$"
     },
     {
       "id": 5,
-      "title": "Tarjeta Grafica"
+      "nombre": "Tarjeta Grafica",
+      "Unidades":"5",
+      "Precio":"855$"
     }
     
   ],
